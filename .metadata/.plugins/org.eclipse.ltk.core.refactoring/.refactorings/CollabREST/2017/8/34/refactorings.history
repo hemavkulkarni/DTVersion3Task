@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;niit&apos; to &apos;com&apos;" description="Move &apos;niit&apos; to &apos;com&apos;" destination="src/main/java/com" element1="src/main/java/niit" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1503384881452" updateReferences="true"/>
+</session>

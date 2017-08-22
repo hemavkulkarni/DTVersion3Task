@@ -1,0 +1,9 @@
+package com.niit.collabrest.config;
+
+@Configuration
+@EnableWebMvc
+@ComponentScan(basePackages="com.niit")
+public class WebConfig 
+{
+
+}
