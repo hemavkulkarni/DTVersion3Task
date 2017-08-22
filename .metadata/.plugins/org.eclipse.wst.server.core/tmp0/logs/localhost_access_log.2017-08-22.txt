@@ -1,2 +1,12 @@
 127.0.0.1 - - [22/Aug/2017:12:27:18 +0530] "GET / HTTP/1.1" 404 994
 0:0:0:0:0:0:0:1 - - [22/Aug/2017:12:27:21 +0530] "GET /CollabREST/ HTTP/1.1" 200 57
+127.0.0.1 - - [22/Aug/2017:12:31:56 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [22/Aug/2017:12:31:57 +0530] "GET /CollabFrontEnd/ HTTP/1.1" 200 2396
+0:0:0:0:0:0:0:1 - - [22/Aug/2017:12:31:57 +0530] "GET /CollabFrontEnd/application.js HTTP/1.1" 200 827
+0:0:0:0:0:0:0:1 - - [22/Aug/2017:12:31:57 +0530] "GET /CollabFrontEnd/UserInfo/regvalidation.js HTTP/1.1" 200 211
+0:0:0:0:0:0:0:1 - - [22/Aug/2017:12:31:57 +0530] "GET /CollabFrontEnd/style/login.css HTTP/1.1" 200 349
+0:0:0:0:0:0:0:1 - - [22/Aug/2017:12:31:57 +0530] "GET /CollabFrontEnd/UserInfo/logincontrol.js HTTP/1.1" 200 1157
+0:0:0:0:0:0:0:1 - - [22/Aug/2017:12:31:57 +0530] "GET /CollabFrontEnd/UserInfo/usercreate.js HTTP/1.1" 200 1217
+0:0:0:0:0:0:0:1 - - [22/Aug/2017:12:31:58 +0530] "GET /CollabFrontEnd/UserInfo/Login.html HTTP/1.1" 200 2008
+0:0:0:0:0:0:0:1 - - [22/Aug/2017:12:32:18 +0530] "POST /collbarest/login/ HTTP/1.1" 404 1028
+0:0:0:0:0:0:0:1 - - [22/Aug/2017:12:32:46 +0530] "GET /CollabFrontEnd/UserInfo/SignUp.html HTTP/1.1" 200 2100
